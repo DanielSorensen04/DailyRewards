@@ -1,0 +1,5 @@
+name: DailyRewards
+version: ${project.version}
+main: me.dalot.dailyrewards.DailyRewards
+api-version: 1.19
+authors: [ Dalot421 ]
